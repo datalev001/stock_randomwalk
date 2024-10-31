@@ -8,7 +8,38 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
-## load data
+def getdatabyday(tiklst, st, ed):
+    download_data = pd.DataFrame([])
+    interval = '1d'
+    LLL = len(tiklst)
+    KKK = 1
+    
+    for tk in tiklst:
+        stock = yf.Ticker(tk)
+        stock_data = \
+        stock.history(start = st, end = ed, interval= '1d').reset_index()
+        if len(stock_data) > 0:
+            stock_data['ticker'] = tk
+            download_data = pd.concat([download_data, stock_data])
+            print ('daily data tickname: ', tk)
+            KKK += 1
+        
+    download_data = download_data.sort_values(['ticker', 'Date'], ascending = [1, 0])
+    z = download_data['Date'].astype(str)
+    download_data['Date'] = z
+    dya_c = ['ticker', 'Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+    
+    download_data = download_data[dya_c]
+    tm_frame = pd.DataFrame(list(set(download_data['Date'])), columns = ['Date'])
+    tm_frame = tm_frame.sort_values(['Date'], ascending = False)
+    tm_frame['dayseq'] = range(1, len(tm_frame) + 1)
+    download_data = pd.merge(download_data, tm_frame, on= ['Date'] , how='inner')
+    download_data = download_data.sort_values(['ticker', 'Date'], ascending = [False, False])
+    return download_data
+
+day_data = getdatabyday(tks, '2019-10-01', '2024-10-20')
+
+## load data, merge day_data with sec_df_etf
 stock_df = pd.read_csv('stock_fullsegment.csv')
 
 ###1) analyze by time range#########

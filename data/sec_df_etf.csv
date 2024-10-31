@@ -1,0 +1,425 @@
+Ticker,Sector,Asset Size Type,Stock Type,Is ETF
+USRT,Real Estate,Large Cap,Value,Yes
+EDOC,Healthcare,Mid Cap,Growth,Yes
+RYE,Energy,Large Cap,Value,Yes
+PSI,Technology,Large Cap,Growth,Yes
+VIS,Industrials,Large Cap,Growth,Yes
+VEA,International,Large Cap,Blend,Yes
+XTN,Transportation,Mid Cap,Growth,Yes
+NVDA,Technology,Large Cap,Growth,No
+VXF,Broad Market,Large Cap,Blend,Yes
+AWYX,Consumer Discretionary,Small Cap,Growth,No
+TPOR,Transportation,Mid Cap,Growth,Yes
+IGM,Technology,Large Cap,Growth,Yes
+RETL,Consumer Discretionary,Mid Cap,Growth,Yes
+UDOW,Broad Market,Large Cap,Blend,Yes
+SQ,Technology,Mid Cap,Growth,No
+SNOW,Technology,Large Cap,Growth,No
+AAP,Consumer Discretionary,Large Cap,Value,No
+AAPL,Technology,Large Cap,Growth,No
+BTEC,Healthcare,Mid Cap,Growth,Yes
+TRYP,Technology,Small Cap,Growth,No
+VTHR,Broad Market,Large Cap,Blend,Yes
+IEO,Energy,Mid Cap,Value,Yes
+VOX,Communication,Large Cap,Blend,Yes
+TSLA,Consumer Discretionary,Large Cap,Growth,No
+ROBO,Technology,Mid Cap,Growth,Yes
+DOCU,Technology,Mid Cap,Growth,Yes
+SMH,Technology,Large Cap,Growth,Yes
+DDOG,Technology,Large Cap,Growth,Yes
+XHE,Healthcare,Mid Cap,Growth,Yes
+KARS,Technology,Mid Cap,Growth,Yes
+IYT,Transportation,Large Cap,Value,Yes
+krbn,"Environmental, Social, and Governance",Mid Cap,Growth,Yes
+YOLO,Consumer Discretionary,Small Cap,Growth,Yes
+ERX,Energy,Mid Cap,Growth,Yes
+GOOG,Technology,Large Cap,Growth,No
+SRET,Real Estate,Small Cap,Value,Yes
+R,Industrials,Large Cap,Value,Yes
+HTEC,Technology,Mid Cap,Growth,Yes
+IBUY,Consumer Discretionary,Small Cap,Growth,Yes
+XRT,Consumer Discretionary,Large Cap,Growth,Yes
+IHF,Healthcare,Mid Cap,Value,Yes
+IYW,Technology,Large Cap,Growth,Yes
+VFH,Financials,Large Cap,Value,Yes
+JHMH,Healthcare,Mid Cap,Value,Yes
+VVIAX,Large Cap Value,Large Cap,Value,Yes
+PINK,Healthcare,Small Cap,Growth,Yes
+AVGO,Technology,Large Cap,Growth,Yes
+VRAI,Alternative Investments,Mid Cap,Blend,Yes
+XLK,Technology,Large Cap,Growth,Yes
+XLI,Industrials,Large Cap,Value,Yes
+VIG,Large Cap Value,Large Cap,Blend,Yes
+UPS,Transportation,Large Cap,Value,Yes
+IVOV,Small Cap Value,Mid Cap,Value,Yes
+MLPA,Energy,Mid Cap,Growth,Yes
+PKB,Real Estate,Mid Cap,Value,Yes
+ICF,Energy,Large Cap,Growth,Yes
+IYE,Technology,Mid Cap,Growth,Yes
+SKYY,Consumer Discretionary,Mid Cap,Growth,Yes
+IYC,Technology,Mid Cap,Growth,Yes
+LOUP,Energy,Large Cap,Value,Yes
+VDE,Healthcare,Large Cap,Blend,Yes
+XPH,Financials,Small Cap,Growth,Yes
+QABA,Energy,Small Cap,Growth,Yes
+XLE,Technology,Large Cap,Blend,Yes
+NOW,Large Cap Growth,Large Cap,Growth,Yes
+VUG,Consumer Discretionary,Large Cap,Growth,Yes
+SHOP,Technology,Mid Cap,Value,No
+TYL,Industrials,Large Cap,Growth,Yes
+DIN,Financials,Mid Cap,Value,Yes
+IXG,Technology,Mid Cap,Value,Yes
+XSD,Consumer Discretionary,Large Cap,Blend,Yes
+PEX,Financials,Small Cap,Growth,Yes
+KBWY,Real Estate,Small Cap,Growth,Yes
+AMZN,Technology,Large Cap,Value,Yes
+GII,Utilities,Large Cap,Blend,Yes
+FXH,Healthcare,Large Cap,Growth,Yes
+OKTA,Technology,Large Cap,Growth,No
+XNTK,Technology,Large Cap,Growth,Yes
+EXP,Materials,Mid Cap,Value,No
+DFNL,Financials,Large Cap,Blend,Yes
+RY,Financials,Large Cap,Value,No
+IAI,Financials,Mid Cap,Value,Yes
+BAC,Financials,Large Cap,Value,No
+GERM,Healthcare,Mid Cap,Growth,Yes
+AWAY,Consumer Discretionary,Mid Cap,Growth,Yes
+FCG,Energy,Mid Cap,Growth,Yes
+RXL,Healthcare,Mid Cap,Growth,Yes
+VCR,Consumer Discretionary,Large Cap,Growth,Yes
+RWR,Real Estate,Large Cap,Value,Yes
+CHB,Financials,Small Cap,Blend,Yes
+VGT,Technology,Large Cap,Growth,Yes
+CNBS,Healthcare,Small Cap,Growth,Yes
+MORT,Real Estate,Mid Cap,Value,Yes
+BILL,Technology,Mid Cap,Growth,No
+DG,Consumer Discretionary,Large Cap,Value,No
+NET,Technology,Large Cap,Growth,No
+OOTO,Consumer Discretionary,Mid Cap,Growth,Yes
+UBOT,Technology,Small Cap,Growth,Yes
+BNDW,Fixed Income,Large Cap,Blend,Yes
+XLV,Healthcare,Large Cap,Value,Yes
+ROOF,Real Estate,Mid Cap,Value,Yes
+CIBR,Technology,Mid Cap,Growth,Yes
+JETS,Transportation,Mid Cap,Growth,Yes
+EWRE,Real Estate,Mid Cap,Value,Yes
+IEME,Emerging Markets,Large Cap,Blend,Yes
+D,Utilities,Large Cap,Value,No
+XLF,Financials,Large Cap,Value,Yes
+EKAR,Technology,Small Cap,Growth,Yes
+FIVN,Technology,Mid Cap,Growth,Yes
+MS,Financials,Large Cap,Value,No
+BJK,Consumer Discretionary,Mid Cap,Growth,Yes
+IYF,Financials,Large Cap,Value,Yes
+SE,Consumer Discretionary,Large Cap,Growth,No
+IVOO,Broad Market,Mid Cap,Blend,Yes
+IDNA,Healthcare,Small Cap,Growth,Yes
+ITB,Real Estate,Mid Cap,Value,Yes
+FREL,Real Estate,Mid Cap,Value,Yes
+JNJ,Healthcare,Large Cap,Value,No
+GNOM,Healthcare,Small Cap,Growth,Yes
+BBH,Healthcare,Mid Cap,Value,Yes
+PSR,Real Estate,Mid Cap,Value,Yes
+AMLP,Energy,Mid Cap,Value,Yes
+XLC,Communication,Large Cap,Blend,Yes
+FTXH,Healthcare,Mid Cap,Growth,Yes
+VGK,International,Large Cap,Blend,Yes
+SSO,Broad Market,Large Cap,Growth,Yes
+IBB,Healthcare,Large Cap,Growth,Yes
+UPRO,Broad Market,Large Cap,Blend,Yes
+IHE,Healthcare,Mid Cap,Value,Yes
+QRFT,Broad Market,Large Cap,Blend,Yes
+ABNB,Consumer Discretionary,Mid Cap,Growth,No
+FENY,Energy,Mid Cap,Value,Yes
+FTXO,Financials,Mid Cap,Value,Yes
+JRNY,Technology,Small Cap,Growth,Yes
+ESGV,"Environmental, Social, and Governance",Large Cap,Growth,Yes
+FDN,Technology,Large Cap,Growth,Yes
+ERUS,Emerging Markets,Mid Cap,Value,Yes
+AGG,Fixed Income,Large Cap,Blend,Yes
+KBWB,Financials,Mid Cap,Value,Yes
+HUBS,Technology,Mid Cap,Growth,No
+HART,Healthcare,Small Cap,Growth,Yes
+XLRE,Real Estate,Large Cap,Value,Yes
+SF,Financials,Large Cap,Value,Yes
+INTU,Technology,Large Cap,Growth,No
+VBR,Financials,Large Cap,Value,Yes
+IVOG,Broad Market,Mid Cap,Growth,Yes
+FRI,Real Estate,Mid Cap,Value,Yes
+VWO,International,Large Cap,Blend,Yes
+FHLC,Healthcare,Mid Cap,Growth,Yes
+VV,Broad Market,Large Cap,Blend,No
+VNQ,Real Estate,Large Cap,Value,Yes
+CSCO,Technology,Large Cap,Growth,Yes
+VTWO,Broad Market,Mid Cap,Blend,No
+GENY,Technology,Small Cap,Growth,Yes
+VO,Broad Market,Mid Cap,Growth,Yes
+PSCH,Healthcare,Mid Cap,Growth,Yes
+TSM,Technology,Large Cap,Growth,No
+RYF,Financials,Large Cap,Value,Yes
+REIT,Real Estate,Mid Cap,Value,Yes
+VDC,Consumer Staples,Large Cap,Value,Yes
+FTXN,Energy,Mid Cap,Value,Yes
+VHT,Healthcare,Large Cap,Growth,Yes
+TT,Industrials,Large Cap,Value,No
+XHS,Healthcare,Mid Cap,Value,Yes
+FNCL,Financials,Large Cap,Value,Yes
+IAK,Insurance,Mid Cap,Value,Yes
+VSGX,International,Large Cap,Blend,Yes
+VWOB,Fixed Income,Mid Cap,Value,Yes
+DELL,Technology,Large Cap,Growth,No
+LABD,Healthcare,Small Cap,Growth,Yes
+FVRR,Consumer Discretionary,Mid Cap,Growth,No
+FTXL,Technology,Mid Cap,Growth,Yes
+NFRA,Infrastructure,Large Cap,Value,Yes
+REZ,Real Estate,Large Cap,Value,Yes
+LRCX,Technology,Large Cap,Growth,No
+PINS,Consumer Discretionary,Mid Cap,Growth,No
+MGV,Consumer Staples,Large Cap,Value,Yes
+KCE,Financials,Mid Cap,Value,Yes
+NRGU,Energy,Mid Cap,Growth,Yes
+PBW,Energy,Mid Cap,Growth,Yes
+BEDZ,Consumer Discretionary,Small Cap,Growth,No
+PTH,Healthcare,Mid Cap,Growth,Yes
+VBK,Small Cap Growth,Small Cap,Growth,Yes
+IEHS,Healthcare,Mid Cap,Growth,Yes
+VSIAX,Consumer Staples,Large Cap,Value,Yes
+MU,Technology,Large Cap,Growth,No
+BIS,Healthcare,Mid Cap,Growth,Yes
+ZS,Technology,Mid Cap,Growth,No
+XOP,Energy,Mid Cap,Value,Yes
+VIOG,Small Cap Growth,Small Cap,Growth,Yes
+KBWD,Financials,Small Cap,Value,Yes
+QCOM,Technology,Large Cap,Growth,No
+TRU,Financials,Mid Cap,Growth,No
+ALGN,Healthcare,Mid Cap,Growth,No
+KURE,Healthcare,Mid Cap,Growth,Yes
+ASML,Technology,Large Cap,Growth,Yes
+WDNA,Healthcare,Mid Cap,Growth,Yes
+MSFT,Technology,Large Cap,Growth,No
+DHR,Healthcare,Large Cap,Growth,Yes
+ADP,Technology,Large Cap,Value,Yes
+BUG,Technology,Mid Cap,Growth,Yes
+BIB,Healthcare,Mid Cap,Growth,Yes
+GM,Consumer Discretionary,Large Cap,Value,No
+LUXE,Consumer Discretionary,Mid Cap,Growth,No
+PANW,Technology,Large Cap,Growth,Yes
+KIE,Financials,Mid Cap,Value,Yes
+SHAK,Consumer Discretionary,Mid Cap,Growth,No
+HCA,Healthcare,Large Cap,Value,Yes
+IAT,Financials,Mid Cap,Value,Yes
+META,Technology,Large Cap,Growth,No
+CRUZ,Consumer Discretionary,Mid Cap,Growth,Yes
+VONG,Large Cap Growth,Large Cap,Growth,Yes
+FTEC,Technology,Mid Cap,Growth,Yes
+ONLN,Technology,Mid Cap,Growth,Yes
+PPH,Healthcare,Mid Cap,Value,Yes
+JHMF,Financials,Mid Cap,Value,Yes
+RTH,Consumer Discretionary,Large Cap,Growth,Yes
+SDOW,Industrials,Large Cap,Value,Yes
+IEDI,Industrials,Mid Cap,Value,Yes
+SRVR,Real Estate,Large Cap,Value,Yes
+DIS,Consumer Discretionary,Large Cap,Value,No
+BIZD,Financials,Mid Cap,Value,Yes
+DE,Industrials,Large Cap,Value,No
+KWT,Energy,Mid Cap,Growth,Yes
+ACN,Technology,Large Cap,Growth,Yes
+DRIV,Technology,Mid Cap,Growth,Yes
+VONE,Broad Market,Large Cap,Blend,Yes
+NFLX,Technology,Large Cap,Growth,Yes
+TAN,Energy,Mid Cap,Growth,Yes
+IFRA,Infrastructure,Mid Cap,Blend,No
+PPTY,Real Estate,Mid Cap,Value,Yes
+INFR,Infrastructure,Mid Cap,Value,Yes
+KRE,Financials,Large Cap,Value,Yes
+ZM,Technology,Mid Cap,Growth,Yes
+VNQI,International Real Estate,Mid Cap,Value,Yes
+VYM,Consumer Staples,Large Cap,Value,Yes
+U,Technology,Mid Cap,Growth,No
+VOT,Small Cap Growth,Small Cap,Growth,Yes
+TQQQ,Broad Market,Large Cap,Blend,Yes
+INDF,Financials,Large Cap,Value,Yes
+VIGI,International,Large Cap,Growth,Yes
+BOB,Consumer Discretionary,Mid Cap,Growth,Yes
+LQD,Fixed Income,Large Cap,Blend,No
+REC,Real Estate,Mid Cap,Value,No
+FTXD,Technology,Mid Cap,Growth,Yes
+BNDX,Fixed Income,Large Cap,Blend,Yes
+DHI,Consumer Discretionary,Large Cap,Growth,Yes
+XPO,Transportation,Mid Cap,Value,No
+VFIN,Broad Market,Large Cap,Blend,Yes
+IBM,Technology,Large Cap,Value,Yes
+RBLX,Technology,Mid Cap,Growth,No
+IFF,Materials,Mid Cap,Value,Yes
+WK,Technology,Mid Cap,Growth,Yes
+IGF,Infrastructure,Large Cap,Value,Yes
+KBWP,Financials,Mid Cap,Growth,Yes
+VOOG,Large Cap Growth,Large Cap,Growth,Yes
+BDCZ,Financials,Mid Cap,Value,Yes
+BBP,Healthcare,Mid Cap,Growth,Yes
+FXN,Energy,Mid Cap,Value,Yes
+QQQ,Broad Market,Large Cap,Blend,Yes
+F,Consumer Discretionary,Large Cap,Value,No
+IEIH,Healthcare,Large Cap,Value,Yes
+IYH,Healthcare,Large Cap,Value,Yes
+VAW,Materials,Large Cap,Growth,Yes
+MA,Technology,Large Cap,Value,No
+VTV,Large Cap Value,Mid Cap,Value,Yes
+PAVE,Infrastructure,Mid Cap,Value,Yes
+RXD,Healthcare,Large Cap,Value,Yes
+MGK,Large Cap Growth,Mid Cap,Growth,Yes
+GUSH,Energy,Mid Cap,Growth,Yes
+IYK,Consumer Staples,Large Cap,Value,Yes
+XT,Technology,Large Cap,Growth,Yes
+AN,Consumer Discretionary,Mid Cap,Value,No
+KBE,Financials,Mid Cap,Growth,Yes
+BMED,Healthcare,Mid Cap,Growth,Yes
+IXJ,Healthcare,Mid Cap,Value,Yes
+SBIO,Healthcare,Mid Cap,Growth,Yes
+GS,Financials,Large Cap,Value,No
+IYR,Real Estate,Large Cap,Value,Yes
+SPY,Broad Market,Large Cap,Blend,Yes
+EMLP,Energy,Mid Cap,Value,Yes
+PEJ,Consumer Discretionary,Mid Cap,Growth,Yes
+VEU,International,Large Cap,Blend,Yes
+QTUM,Technology,Small Cap,Growth,Yes
+SYK,Healthcare,Large Cap,Value,No
+IXN,Technology,Large Cap,Growth,Yes
+TOLZ,Infrastructure,Mid Cap,Blend,Yes
+JPM,Financials,Large Cap,Value,No
+PNQI,Technology,Mid Cap,Growth,Yes
+IRBO,Technology,Mid Cap,Growth,Yes
+NETL,Real Estate,Large Cap,Value,Yes
+DKNG,Consumer Discretionary,Mid Cap,Growth,No
+SPXZ,Technology,Mid Cap,Growth,Yes
+TEAM,Technology,Large Cap,Growth,No
+ORCL,Technology,Large Cap,Value,No
+SQQQ,Broad Market,Large Cap,Blend,Yes
+OIH,Energy,Mid Cap,Value,Yes
+KFVG,Technology,Mid Cap,Growth,Yes
+EBIZ,Technology,Mid Cap,Growth,Yes
+MCD,Consumer Discretionary,Large Cap,Value,No
+TPYP,Energy,Mid Cap,Growth,Yes
+IYG,Financials,Large Cap,Value,Yes
+KOIN,Technology,Mid Cap,Growth,Yes
+DTEC,Technology,Mid Cap,Growth,Yes
+VTI,Broad Market,Large Cap,Blend,Yes
+MLPX,Energy,Mid Cap,Value,Yes
+PBJ,Consumer Staples,Mid Cap,Value,Yes
+BITQ,Technology,Small Cap,Growth,Yes
+POTX,Healthcare,Small Cap,Growth,Yes
+VOO,Broad Market,Large Cap,Blend,Yes
+CNCR,Healthcare,Mid Cap,Growth,Yes
+VXUS,International,Large Cap,Blend,Yes
+TDOC,Healthcare,Mid Cap,Growth,No
+RIVN,Consumer Discretionary,Large Cap,Growth,Yes
+ISRG,Healthcare,Mid Cap,Blend,Yes
+VMOT,Broad Market,Large Cap,Value,No
+LW,Consumer Discretionary,Large Cap,Value,Yes
+SCHH,Real Estate,Large Cap,Value,Yes
+SBUX,Consumer Discretionary,Mid Cap,Growth,Yes
+PBE,Healthcare,Large Cap,Growth,Yes
+PH,Industrials,Mid Cap,Growth,Yes
+FBT,Healthcare,Mid Cap,Value,Yes
+FXO,Financials,Large Cap,Growth,Yes
+ADBE,Technology,Large Cap,Value,No
+IEFN,Financials,Mid Cap,Value,Yes
+PGNY,Healthcare,Mid Cap,Growth,Yes
+ROKU,Consumer Discretionary,Mid Cap,Growth,No
+GLIF,Financials,Small Cap,Value,Yes
+USD,Fixed Income,Large Cap,Blend,Yes
+FDX,Industrials,Large Cap,Value,Yes
+ACES,Energy,Mid Cap,Growth,Yes
+XBUY,Consumer Discretionary,Small Cap,Growth,Yes
+SSG,Technology,Mid Cap,Growth,Yes
+LEGR,Technology,Small Cap,Growth,Yes
+LOW,Consumer Discretionary,Large Cap,Value,No
+VEEV,Healthcare,Large Cap,Growth,Yes
+MDB,Technology,Large Cap,Growth,No
+VB,Small Cap,Small Cap,Growth,Yes
+EUFN,Financials,Mid Cap,Value,Yes
+FIVE,Consumer Discretionary,Mid Cap,Growth,Yes
+IETC,Technology,Mid Cap,Growth,Yes
+VOE,Broad Market,Mid Cap,Blend,Yes
+RDOG,Real Estate,Mid Cap,Value,Yes
+REM,Real Estate,Mid Cap,Value,Yes
+AIIQ,Technology,Small Cap,Growth,No
+RYH,Healthcare,Mid Cap,Growth,Yes
+STE,Healthcare,Large Cap,Value,Yes
+CVS,Consumer Staples,Large Cap,Value,Yes
+VTWG,Small Cap Growth,Small Cap,Growth,Yes
+KBWR,Financials,Small Cap,Value,Yes
+FTXR,Technology,Mid Cap,Growth,Yes
+IXC,Energy,Large Cap,Value,No
+BOAT,Transportation,Mid Cap,Value,Yes
+PYPL,Technology,Large Cap,Growth,Yes
+V,Financials,Large Cap,Value,Yes
+TMO,Healthcare,Large Cap,Growth,No
+SIMS,Consumer Discretionary,Small Cap,Growth,No
+KOMP,Technology,Small Cap,Growth,Yes
+VONV,Large Cap Value,Large Cap,Value,Yes
+CHIH,Healthcare,Mid Cap,Growth,Yes
+VSS,International,Large Cap,Blend,Yes
+DIA,Broad Market,Large Cap,Blend,Yes
+LABU,Healthcare,Large Cap,Growth,Yes
+IYJ,Industrials,Large Cap,Value,Yes
+NVS,Healthcare,Large Cap,Growth,No
+BOTZ,Technology,Mid Cap,Growth,Yes
+VTWV,Small Cap Growth,Small Cap,Value,Yes
+NURE,Real Estate,Mid Cap,Growth,Yes
+LULU,Consumer Discretionary,Large Cap,Value,No
+IGV,Technology,Mid Cap,Growth,Yes
+SOXS,Technology,Mid Cap,Value,Yes
+TTD,Technology,Small Cap,Growth,No
+BBC,Healthcare,Small Cap,Growth,Yes
+HYS,Fixed Income,Large Cap,Blend,Yes
+VPU,Utilities,Large Cap,Value,Yes
+EVR,Financials,Mid Cap,Value,No
+EMB,Fixed Income,Large Cap,Blend,Yes
+IHI,Healthcare,Large Cap,Value,Yes
+VOOV,Large Cap Value,Large Cap,Value,Yes
+RACE,Consumer Discretionary,Large Cap,Growth,No
+MILN,Consumer Discretionary,Mid Cap,Growth,Yes
+MGC,Large Cap,Large Cap,Blend,Yes
+HD,Consumer Discretionary,Large Cap,Value,No
+VASVX,Large Cap Value,Large Cap,Blend,Yes
+CPT,Real Estate,Mid Cap,Value,Yes
+PJP,Healthcare,Mid Cap,Growth,Yes
+ARKQ,Technology,Mid Cap,Growth,Yes
+CAT,Industrials,Large Cap,Value,No
+AGNG,Healthcare,Mid Cap,Growth,Yes
+AMJ,Energy,Large Cap,Value,Yes
+VIOV,Small Cap Value,Small Cap,Value,No
+SNAP,Technology,Mid Cap,Growth,Yes
+SPXU,Broad Market,Large Cap,Blend,Yes
+BBRE,Real Estate,Mid Cap,Value,Yes
+INDS,Real Estate,Mid Cap,Value,Yes
+BMO,Financials,Large Cap,Value,No
+TWLO,Technology,Mid Cap,Growth,Yes
+ROBT,Technology,Small Cap,Growth,Yes
+IDRV,Technology,Mid Cap,Growth,Yes
+REK,Real Estate,Small Cap,Value,Yes
+CURE,Healthcare,Mid Cap,Growth,No
+ESTC,Technology,Mid Cap,Growth,Yes
+ARKG,Healthcare,Small Cap,Growth,Yes
+IGN,Technology,Small Cap,Growth,Yes
+VIOO,Small Cap,Small Cap,Growth,Yes
+SOXX,Technology,Large Cap,Growth,Yes
+VYMI,International,Mid Cap,Value,Yes
+IECS,Technology,Mid Cap,Value,Yes
+CRWD,Technology,Large Cap,Growth,No
+CRM,Industrials,Large Cap,Value,Yes
+BA,Healthcare,Large Cap,Value,No
+XBI,Utilities,Large Cap,Value,Yes
+AEE,International,Mid Cap,Growth,Yes
+CHNA,Healthcare,Mid Cap,Growth,Yes
+HELX,Technology,Mid Cap,Growth,Yes
+SOXL,Broad Market,Mid Cap,Growth,Yes
+VT,Energy,Large Cap,Blend,Yes
+XES,Technology,Mid Cap,Value,Yes
+AIEQ,Healthcare,Large Cap,Growth,Yes
+UNH,Real Estate,Large Cap,Value,Yes
+HOMZ,Technology,Mid Cap,Growth,Yes
+QCLN,Energy,Large Cap,Growth,Yes
+ICLN,International,Large Cap,Value,Yes
+VPN,Healthcare,Mid Cap,Growth,Yes

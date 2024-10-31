@@ -1,1 +1,5 @@
-# stock_randomwalk
+# Stock Prices: Predictable Patterns or Pure Chance?
+Statistical Analysis of Stock Market Trends Across Bull and Bear Phases, Uncovering When and How Market Conditions Shape Predictability
+Are stock prices truly random, or do hidden patterns surface under certain conditions? Traditional finance says stock prices follow a random walk - unpredictable and tough to forecast. But does this randomness hold in every scenario? Could specific conditions reveal trends?
+I'll dig into stock data from the health, energy, and tech sectors, examining randomness across various market phases - from bear to bull. Does a tech stock act differently in a bull market than energy in a downturn? And can we measure that?
+This isn't just theory. Knowing when stocks show patterns can give traders and analysts a real edge, showing when to rely on trends versus randomness. Using statistical tests and data segmentation, I'll work to pinpoint where stocks deviate from a random walk, offering insights for strategies across investment and arbitrage.
